@@ -1,0 +1,40 @@
+.job_filter .range_wrap label {
+  font-size: 16px;
+  color: #001D38;
+  font-weight: 400;
+  margin-bottom: 19px;
+  margin-top: 4px; }
+.job_filter span.range {
+  color: #040E27;
+  font-size: 16px;
+  font-weight: 400;
+  display: block;
+  margin-bottom: 15px; }
+.job_filter p {
+  margin-top: 14px;
+  margin-bottom: 27px; }
+  .job_filter p input {
+    background-color: transparent; }
+.job_filter .ui-widget.ui-widget-content {
+  border: 0;
+  background: #D1FFE7; }
+.job_filter .ui-slider-horizontal {
+  height: 2px; }
+.job_filter .ui-state-default, .job_filter .ui-widget-content .ui-state-default, .job_filter .ui-widget-header .ui-state-default, .job_filter .ui-button, .job_filter html .ui-button.ui-state-disabled:hover, .job_filter html .ui-button.ui-state-disabled:active {
+  border: 2px solid #00D363;
+  background: #fff;
+  font-weight: normal;
+  width: 14px;
+  height: 16px;
+  border-radius: 5px; }
+.job_filter .ui-widget-header {
+  background: #00D363; }
+.job_filter .ui-slider-horizontal .ui-slider-handle {
+  top: -7px;
+  margin-left: -.6em; }
+.job_filter .range_wrap p input::placeholder {
+  font-size: 14px !important;
+  color: #7A838B !important;
+  font-weight: 400 !important; }
+
+/*# sourceMappingURL=range.css.map */
